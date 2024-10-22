@@ -35,6 +35,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FNotes.png?alt=media&token=be257395-6704-4740-811d-2fa203ed00a9" />
 <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FBit%C3%A1cora.png?alt=media&token=ee9b28ff-0154-48bc-a06d-3fde539758bd" />
 <ims src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FEnglish%20Cards.png?alt=media&token=f646aeff-5ef2-4545-a9c1-fd9b2f381434" />
+<img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2FEnglish%20Cards.png?alt=media&token=f646aeff-5ef2-4545-a9c1-fd9b2f381434" />
 
 
 </td>
