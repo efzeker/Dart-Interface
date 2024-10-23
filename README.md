@@ -1,4 +1,4 @@
-# Flutter-Interface
+# Mobile App, Master Project
 
 ## Motivation
 
