@@ -1,4 +1,4 @@
-# Mobile App, Master Project
+# Mobile App, Master Project in Flutter
 
 ## Motivation
 
