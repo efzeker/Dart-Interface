@@ -14,7 +14,7 @@
 * Interstellar News: Otra sección de noticias en que se muestran noticias del espacio exterior. Está desarrollado para publicar noticias de un juego que estoy comenzando a jugar y que será la base para proseguir mi frontend.
 * Notes: Funcionalidad para escribir notas sobre distintos temas contingentes.
 * LogBook: Calendario y TaskChecking.
-* English Cards: Tarjetas con palabras combinadas de inglés con un traductor conectado con una API. 
+* English Cards: Tarjetas con palabras combinadas de inglés con un traductor mediante una API. 
 
 
 
