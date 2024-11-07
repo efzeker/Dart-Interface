@@ -3,7 +3,6 @@
 ## Motivation
 
 * Crear una aplicación móvil que tenga una interfaz amigable al usuario, que sea entretenida y que tenga funcionalidades útiles.
-* Demostrar mis habilidades en lenguaje en programación orientado a objetos, base para aprender Java.
 * Tener un input para implementar a un juego que tengo interés en programar en el corto plazo.
 
 ## Features
