@@ -8,7 +8,7 @@
 ## Features
 
 * Radar: Radar interactivo que arroja naves espaciales, personajes históricos y noticias interestelares. En el caso de la nave espacial es el Halcón milenario que al hacer click sobre partes de ella, se abre una ventana con imágenes de la nave por dentro, planos e escenas de la película que suceden en tal sector.
-* Wallpapers: Video del lecho marino, nave espacial recorriendo el espacio, una especie del backend de un radar que muestra mi control de cambios GIT, realizado con GitKraken. Imagenes no modificadas.
+* Wallpapers: Video del lecho marino, nave espacial recorriendo el espacio, una especie del backend de un radar que muestra mi control de cambios GIT. Imagenes no modificadas.
 * Local News: Noticias del mundo utópico en que base la aplicación, que relata batallas de un animé, eventos de películas o mitologías.
 * Descriptor de personajes: Con una interfaz amigable alguien puede agregar y eliminar personajes para ir leyendo (o estudiando).
 * Interstellar News: Otra sección de noticias en que se muestran noticias del espacio exterior. Está desarrollado para publicar noticias de un juego que estoy comenzando a jugar y que será la base para proseguir mi frontend.
